@@ -23,7 +23,7 @@ parser.add_argument('-b', '--batch_size', type=int, default=128,
                     help='Batch Size')
 parser.add_argument('-s', '--image_size', type=int, default=32,
                     help='image size')
-parser.add_argument('-m', '--model', nargs='+', type=str, default= 'Resnet20',
+parser.add_argument('-m', '--model', nargs='+', type=str, default= 'Resnet29',
                     help='Model Selection')
 parser.add_argument('-d', '-sav_dir', type=str, dest='save_dir', help='directory', default='outputs')
 args = vars(parser.parse_args())
