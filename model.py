@@ -10,10 +10,11 @@ def SelectModel(m):
     
     if m == 'Resnet29':
         return ResNet(Bottleneck, [3, 3, 3])
-    elif m == 'Resnext29-8x64d':
-        return ResNeXt(ResNextBlock, [3, 3, 3], 8, 64)
-    elif m == 'Resnext29-16x64d':
-        return ResNeXt(ResNextBlock, [3, 3, 3], 16, 64)
+    elif m == 'Resnext29-32x4d':
+        return ResNeXt(ResNextBlock, [3, 3, 3], 32, 4)
+    elif m == 'Resnext29-64x4d':
+        return ResNeXt(ResNextBlock, [3, 3, 3], 64, 4)
+
 
 
 
