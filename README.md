@@ -25,9 +25,9 @@ Pretrained model should be downloaded if you click the name of Model.
 
 | Model             | Acc.        | Param.        |
 | ----------------- | ----------- |----------- |
-| [ResNet29](https://drive.google.com/file/d/1BIklR-0qXeWw9zhEscAPZZQrk6Q98zFQ/view?usp=drive_link)          | 91.48%      |  0.27M     |
-| [ResNeXt29-8x64d](https://drive.google.com/file/d/1ekH2JjeBiaUtZ2cUxP63PWg0DQlKm8vj/view?usp=drive_link)          | 92.64%      | 0.46M      |
-| [ResNeXt29-16x4d](https://drive.google.com/file/d/1TqbykyFFvf2QxZbwv-k3G0L9iJ90Hd1e/view?usp=drive_link)         | 92.67%      | 0.66M      |
+| [ResNet20]()          | 93.97%      |  3.44M     |
+| [ResNeXt29-8x64d]()          | 92.64%      | 0.46M      |
+| [ResNeXt29-16x4d]()         | 92.67%      | 0.66M      |
 
 
 ## Plot
