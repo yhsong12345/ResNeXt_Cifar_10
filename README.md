@@ -26,8 +26,8 @@ Pretrained model should be downloaded if you click the name of Model.
 | Model             | Acc.        | Param.        |
 | ----------------- | ----------- |----------- |
 | [ResNet20]()          | 93.97%      |  3.44M     |
-| [ResNeXt29-8x64d]()          | 92.64%      | 3.30M      |
-| [ResNeXt29-16x4d]()         | 94.8%      | 3.30M      |
+| [ResNeXt20-8x64d]()          | 92.64%      | 3.30M      |
+| [ResNeXt20-16x4d]()         | 94.8%      | 3.30M      |
 
 
 ## Plot
